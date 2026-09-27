@@ -5,7 +5,7 @@ an LLM (OpenRouter / Groq / OpenAI / Anthropic — configurable). Implements the
 required by the challenge: `POST /v1/context`, `POST /v1/tick`, `POST /v1/reply`,
 `GET /v1/healthz`, `GET /v1/metadata`.
 
-**Live URL:** https://YOUR-RENDER-URL.onrender.com
+**Live URL:** https://vera-bot-2jn6.onrender.com
 
 ## How it works
 
